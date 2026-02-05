@@ -19,9 +19,6 @@
   <a href="mailto:ahdh28493@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
 </p>
 
 <p>
@@ -36,8 +33,6 @@
 - 🧩 **Role:** AI Engineer (LLMs / RAG / MLOps / Applied ML)
 - 🏗️ **I build:** production-ready ML systems (training → deployment → monitoring)
 - 🎯 **Focus:** accuracy, latency, cost, observability, and safe evaluation
-- 📌 **Current:** `YOUR_CURRENT_FOCUS (e.g., RAG evals, agentic workflows, multimodal)`  
-- 📝 **Writing/notes:** `YOUR_BLOG_OR_NOTES_LINK`
 
 ---
 
@@ -95,35 +90,12 @@
 
 ---
 
-## 📈 GitHub Stats
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&include_all_commits=true&rank_icon=github" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME" />
-<br/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact" />
-
-</div>
-
----
-
-## 🧾 Certifications (Optional)
-- 🏅 `CERT_1 (e.g., AWS ML Specialty / TensorFlow Developer)`
-- 🏅 `CERT_2`
-- 🏅 `CERT_3`
-
----
-
 ## 🤝 Contact
 - 💼 LinkedIn: `http://linkedin.com/in/3ahooda`
 - 📧 Email: `ahdh28493@gmail.com`
-- 🌐 Portfolio: `YOUR_PORTFOLIO_URL`
-
----
 
 <div align="center">
 
-### ⚡ Open to: Freelance • Consulting • Full-time • Contract
-<img src="https://img.shields.io/badge/Let's%20Build%20Production%20AI-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Open%20to%20Opportunities-111827?style=for-the-badge&logo=vercel&logoColor=white" />
 
 </div>
